@@ -1,9 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
-void main()
+int main()
 {
- if(printf("\n hello world \n"))
- getch();
+	if(printf("hello world"))
+	return 0;
 }
- 
- 
