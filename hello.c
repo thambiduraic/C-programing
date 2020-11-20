@@ -3,6 +3,7 @@
 void main()
 {
  if(printf("\n hello world \n"))
+ getch();
 }
  
  
